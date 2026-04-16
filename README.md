@@ -6,7 +6,7 @@
 
 Welcome to **Spam Guard**, a powerful, highly specialized cybersecurity tool fundamentally engineered using strictly Natural Language Processing (NLP) and robust Machine Learning Classification algorithms. The engine systematically classifies raw text messages (SMS) mathematically mapping them as explicit "Threats" (Spam) or fundamentally "Safe", wrapped dynamically completely inside an advanced, highly premium Cyber-Security dashboard visual telemetry interface.
 
-Developed by **Komal Mittal**.
+Developed by **Yash Kalra**.
 
 ---
 
