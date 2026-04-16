@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**[🔥 View Live Application on Streamlit Cloud](https://your-app-name.streamlit.app/](https://sms-spam-classifier-practice.streamlit.app/)**
+
 Welcome to **Spam Guard**, a powerful, highly specialized cybersecurity tool fundamentally engineered using strictly Natural Language Processing (NLP) and robust Machine Learning Classification algorithms. The engine systematically classifies raw text messages (SMS) mathematically mapping them as explicit "Threats" (Spam) or fundamentally "Safe", wrapped dynamically completely inside an advanced, highly premium Cyber-Security dashboard visual telemetry interface.
 
 Developed by **Yash Kalra**.
